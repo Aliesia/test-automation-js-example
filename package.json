@@ -1,0 +1,26 @@
+{
+  "name": "test-automation-js-example",
+  "version": "1.0.0",
+  "description": "This project should show results of a test script with test cases on login page.",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "chromedriver": "^92.0.2",
+    "cucumber": "^7.0.0-rc.0",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aliesia/test-automation-js-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aliesia/test-automation-js-example/issues"
+  },
+  "homepage": "https://github.com/Aliesia/test-automation-js-example#readme"
+}
