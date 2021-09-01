@@ -1,14 +1,10 @@
-## INSTALLATION GUIDE.
+## INSTALLATION GUIDE
 1. Clone repository to a local folder. In console(terminal):
-   `git clone https://github.com/Aliesia/test-automation-js-example`
-2. Install NodeJs.To see if Node is installed, type in a command line tool:
-   `node -v`
-3. Download Chrome WebDriver with command `npm install chromedriver` or from [link](https://chromedriver.storage.googleapis.com/index.html) corresponding Your browser version. This project uses ChromeDriver v91.0*
-- Than, unzip chromedriver_win32.zip
-- And move Chromedriver to folder Windows
-4. Download project dependencies to project folder by using `npm install`
 
-#### Now You may run tests from project
+   `git clone https://github.com/Aliesia/test-automation-js-example`
+2. Download project dependencies to project folder by using
+
+   `npm install`
 
 ## TODO LIST OF TEST CASES:
 - [ ] As a guest I want to enter Login page
